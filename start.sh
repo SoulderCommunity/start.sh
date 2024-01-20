@@ -1,0 +1,1 @@
+java -Xms128M -Xmx2048M -Dterminal.jline=false -Dterminal.ansi=true -javaagent:LaunchServer.jar -jar LaunchServer.jar;
